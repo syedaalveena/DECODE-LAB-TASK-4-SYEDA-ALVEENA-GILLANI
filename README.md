@@ -3,7 +3,6 @@ FOR INTERNSHIP TASKS 4
 # Project 4: System Vulnerability Checklist
 
 **Analyst:** Syeda Alveena Gillani
-**Date:** May 31, 2026
 **Organization:** DecodeLabs Cybersecurity Training — Batch 2026
 **Skill Badge:** Risk Assessment
 
